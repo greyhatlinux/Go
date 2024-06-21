@@ -1,0 +1,9 @@
+# Variables
+
+
+* Go is a statically typed programming language. This means, variables always have specific types allocated (Unlike python and JS, where a variable can hold any data type)
+
+* Go comes with several built-in data types
+
+* Go's integer types are: uint8, uint16, uint32, uint64,
+int8, int16, int32 and int64.
