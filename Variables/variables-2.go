@@ -14,4 +14,15 @@ func main() {
 	z := 20.40
 
 	fmt.Println(x, y, z)
+
+
+	var name = "Aman"
+	age := 40
+
+	var phone int32 = 1122334455
+
+	fmt.Println("--- Person Details --- ")
+	fmt.Println("Name	: ", name)
+	fmt.Println("Age	: ", age)
+	fmt.Println("Phone	: ", phone)
 }
