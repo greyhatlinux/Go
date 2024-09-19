@@ -60,7 +60,7 @@ func main() {
 	fmt.Println(mp3)
 
 	fmt.Println("---")
-	
+
 	// Nested Map
 
 	elements := map[string]map[string]string {
